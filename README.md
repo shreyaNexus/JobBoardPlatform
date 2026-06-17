@@ -135,4 +135,4 @@ Market Impact
 
 Screenshots:
 ![Dashboard](https://github.com/shreyaNexus/JobBoardPlatform/blob/be984bcc88b47b3f89df1928db36a99e9ee524fd/Screenshot%202026-06-17%20204049.png)
-![Dashboard]()
+![Dashboard](https://github.com/shreyaNexus/JobBoardPlatform/blob/671bdc9ee3aef31dd8133acc62075fca069d7247/Screenshot%202026-06-17%20204112.png)
