@@ -134,4 +134,4 @@ Market Impact
 * Increases employment accessibility and opportunities.
 
 Screenshots:
-![Dashboard]()
+![Dashboard](https://github.com/shreyaNexus/JobBoardPlatform/blob/be984bcc88b47b3f89df1928db36a99e9ee524fd/Screenshot%202026-06-17%20204049.png)
